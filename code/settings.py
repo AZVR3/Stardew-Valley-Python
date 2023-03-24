@@ -1,15 +1,14 @@
 from pygame.math import Vector2
 
-# Screen
+# screen
 SCREEN_WIDTH = 1280
 SCREEN_HEIGHT = 720
 TILE_SIZE = 64
 
-# Overlay positions
+# overlay positions 
 OVERLAY_POSITIONS = {
     'tool': (40, SCREEN_HEIGHT - 15),
-    'seed': (70, SCREEN_HEIGHT - 5),
-}
+    'seed': (70, SCREEN_HEIGHT - 5)}
 
 PLAYER_TOOL_OFFSET = {
     'left': Vector2(-50, 40),
@@ -48,7 +47,6 @@ SALE_PRICES = {
     'corn': 10,
     'tomato': 20
 }
-
 PURCHASE_PRICES = {
     'corn': 4,
     'tomato': 5

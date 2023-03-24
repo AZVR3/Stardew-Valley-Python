@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c78fd7b-7bb1-4f35-a6b2-f18f97361310" name="Changes" comment="Setup, Basic Player, Import Player">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/axe.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/bg.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/hoe.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/music.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/plant.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/success.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/water.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Tilesets/Fences.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Tilesets/Grass.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Tilesets/Hills.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Tilesets/House Decoration.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Tilesets/House.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Tilesets/Objects.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Tilesets/Paths.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Tilesets/Plant Decoration.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Tilesets/Water.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Tilesets/interaction.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/map.tmx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/LycheeSoda.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/level.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/support.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/support.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NPzSUf5nBsPMa9O23IPFo2Xc0D" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/jongy/Documents/GitHub/Stardew-Valley-Python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jongy\Documents\GitHub\Stardew-Valley-Python\code" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c78fd7b-7bb1-4f35-a6b2-f18f97361310" name="Changes" comment="" />
+      <created>1679580510572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679580510572</updated>
+      <workItem from="1679580511941" duration="4473000" />
+      <workItem from="1679616043406" duration="81000" />
+      <workItem from="1679616232500" duration="3908000" />
+      <workItem from="1679621726547" duration="103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Setup, Basic Player, Import Player" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setup, Basic Player, Import Player" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Stardew_Valley_Python$main.coverage" NAME="main Coverage Results" MODIFIED="1679621489317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/Stardew_Valley_Python$support.coverage" NAME="support Coverage Results" MODIFIED="1679620084883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+  </component>
+</project>
